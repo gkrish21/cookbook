@@ -1,4 +1,4 @@
-This is Salad Recipe.
+This is the Best Salad Recipe.
 
 Ingredients:
 1. Ingredient1
