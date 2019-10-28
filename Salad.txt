@@ -1,0 +1,6 @@
+This is Salad Reciep.
+
+Ingredients:
+1. Ingredient1
+2. Ingredient2
+3. Ingredient3
