@@ -1,6 +1,7 @@
-This is Salad Reciep.
+This is Salad Recipe.
 
 Ingredients:
 1. Ingredient1
 2. Ingredient2
 3. Ingredient3
+4. Ingredient4
